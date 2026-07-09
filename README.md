@@ -230,4 +230,3 @@ I am always open to research collaborations, engineering discussions, open-sourc
 > **Engineer with rigor.**
 > **Secure every layer.**
 > **Build technologies that endure.**
-
